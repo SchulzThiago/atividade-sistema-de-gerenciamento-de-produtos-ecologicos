@@ -1,5 +1,4 @@
-export interface produtoEcologia{
-    nome:string;
+export interface produtoEcologico{
+    nome:String;
     preco:number;
 }
-
